@@ -19,7 +19,6 @@ Using survey data on drug consumption patterns, this project builds a **multi-cl
 | File | Description |
 |------|-------------|
 | `Drug_Consumption.csv` | Raw survey data with demographic and personality features, plus drug usage frequency for 32 substances |
-| `Drug_Consumption_Quantified.csv` | Pre-quantified version of the dataset |
 
 ### Features
 
